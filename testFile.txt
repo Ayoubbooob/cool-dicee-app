@@ -1,0 +1,7 @@
+main() => runApp(const myApp());
+
+class myApp extends StatelessWidget {
+myApp({this.key});
+
+Key key;
+}
