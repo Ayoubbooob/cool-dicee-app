@@ -1,8 +1,6 @@
 testing pull request , merge
 
-HOLA 0
 
-HOLA 1
 
 
 HOLA 2
